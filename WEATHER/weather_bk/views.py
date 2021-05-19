@@ -1,4 +1,3 @@
-from weather_bk.forms import CityForm
 import requests
 from django.shortcuts import render
 from .models import CITY
